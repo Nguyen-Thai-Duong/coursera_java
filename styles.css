@@ -1,0 +1,6 @@
+.gallery img {
+    width: 200px;
+    height: auto;
+    margin: 10px;
+    transition: transform 0.3s;
+}
